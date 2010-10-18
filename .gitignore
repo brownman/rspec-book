@@ -3,3 +3,5 @@
 *.un~
 *.swp
 coverage/
+.bundle/
+bin/
